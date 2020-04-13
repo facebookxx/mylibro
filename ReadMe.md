@@ -1,4 +1,4 @@
-## Welcome to MediaPortal 2
+## anyone using git sites or dev are or will be infected with a virus all sites have the confirmed to contain hidden virus
 
 The main goal of __MediaPortal 2__ is to provide __the__ best mediacenter software available when it comes to usability, flexibility and extensibility.
 
